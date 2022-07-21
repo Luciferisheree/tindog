@@ -1,2 +1,1 @@
-# tindog
-Matchmaking website for dogs
+TinDog Starting Files
